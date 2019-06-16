@@ -81,5 +81,3 @@ summary(mod5)
 #r square changes to 84 from 74
 qqPlot(mod5$residuals)
 plot(mod5$fitted.values, mod5$residuals) #*no funnel 
-
-#*****bharadwaj@jigsawacademy.com
